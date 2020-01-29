@@ -1,0 +1,61 @@
+academic journal
+academic/scientific
+advertisement
+artistic document
+autobiography
+book
+booklet
+brochure
+case summaries
+certificate
+church service
+company policies
+court case
+court transcripts
+creative content
+disease information 
+disease prevention
+document scanned
+education
+excerpt
+fiction
+finance
+financial & sales
+flyer
+government
+government form
+government form instructions
+government policies
+government reports
+government summaries
+guide/help
+healthcare
+hr
+instruction manual
+journal article
+legal
+magazine
+market report
+market segment
+marketing
+marketing literature
+new hire information
+nonfiction story
+orientation information
+play
+product manual
+publication
+remediated scan
+report
+research
+resume
+rich media
+sales
+scientific papers
+scientific report
+small word document
+software
+staff handbook
+technology
+text book
+transcript
