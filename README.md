@@ -1,8 +1,10 @@
 # se-scraper
  Search Engine Scraper
 
+## How to install:
+Run `npm install` in the cloned repo
 
-How to run:
+## How to run:
 
 Edit main.js with your data:
 
